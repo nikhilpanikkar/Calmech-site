@@ -1,9 +1,5 @@
-.grid-container{
 
-  margin:0;
-  padding:0;
-  box-sizing: border-box;
-}
+
 
 
 a{
@@ -127,19 +123,12 @@ nav li{
 
 
 .house-photo{
-/*max-width:100%;
-display:inline-block; */
 
   text-align:center;
 
 }
 
-.house-photo{
-/*  vertical-align:middle;
-  height:auto; */
-  margin-left:1.5rem;
-  margin-right:1.5rem;
-}
+
 
 @media (max-width: 375px){
   .house-photo{
